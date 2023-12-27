@@ -1,0 +1,110 @@
+{
+    "questions": [
+        {
+            "type": "binary",
+            "title": "Are you a working parent?",
+            "tag": "is-working-parent",
+            "option": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "Select the age range of your child",
+            "tag": "child-age-range",
+            "option": [
+                "0-18 months",
+                "18-36 months",
+                "36+ months"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "What is the gender of your child?",
+            "tag": "child-gender",
+            "option": [
+                "Male",
+                "Female",
+                "Prefer not to disclose"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "What type of activity do you prefer for your child?",
+            "tag": "preferred-activity",
+            "option": [
+                "Indoor",
+                "Outdoor",
+                "Both Indoor and Outdoor"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How frequently can you supervise your child during performing activities?",
+            "tag": "parent-supervision",
+            "option": [
+                "I can constantly supervise my child during activities",
+                "I can moderately supervise my child during activities",
+                "I can limitedly supervise my child during activities"
+            ]
+        },
+        {
+            "type": "binary",
+            "multiSelect": false,
+            "title": "Are you and your child interested in celebrating special/occasional holidays?",
+            "tag": "interested-in-holidays",
+            "option": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How much physical movement does your child typically get per day?",
+            "tag": "child-dynamicity-level",
+            "option": [
+                "Not much, my child is less dynamic",
+                "Moderate, my child is somewhat dynamic",
+                "A lot, my child is very dynamic"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How much time can you provide for a typical activity?",
+            "tag": "parent-available-duration",
+            "option": [
+                "Limited time: 30 minutes",
+                "Moderate time: 30-60 minutes",
+                "Extended time: 60+ minutes"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": true,
+            "title": "In which category of activity does your child show more interest? (Select multiple if needed)",
+            "tag": "preferred-categories",
+            "option": [
+                "Creative (e.g., finger painting, clay modeling)",
+                "Active (e.g., playing tag, jumping on a trampoline)",
+                "Relaxation (e.g., storytime, watching clouds)",
+                "Educational (e.g., puzzle solving, learning numbers)",
+                "Entertainment (e.g., puppet show, magic show)",
+                "Social (e.g., playdates, birthday parties)",
+                "Culinary (e.g., cookie decorating, making pizza)",
+                "Digital (e.g., educational apps, animated cartoons)",
+                "Adventure (e.g., treasure hunt, visiting a zoo)",
+                "DIY (e.g., making bird feeders, creating masks)",
+                "Gardening (e.g., planting sunflowers, creating a fairy garden)",
+                "Shopping (e.g., picking toys, choosing snacks)",
+                "Occasional (e.g., Easter egg hunt, Halloween trick-or-treating)"
+            ]
+        }
+    ]
+}

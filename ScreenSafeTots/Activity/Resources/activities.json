@@ -1,0 +1,498 @@
+{
+    "activities":[
+        {
+            "name": "Sensory Play",
+            "categories": [
+                "relaxation",
+                "entertainment",
+                "creative"
+            ],
+            "age_range": "0_18",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "limited",
+            "special_occasion": false,
+            "explanation": "Create a sensory bin with rice, beans, or other textured materials for your baby to touch",
+            "impact": "Initiates texture Exploration and strengthenes motor skills",
+            "image": "SensoryPlay.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Nursery Rhymes",
+            "categories": [
+                "entertainment",
+                "educational"
+            ],
+            "age_range": "0_18",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Sing nursery rhymes to infants with hand motions ",
+            "impact": "Enhances memory and language skills",
+            "image": "NurseryRhymes.jpeg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Reading and Listening",
+            "categories": [
+                "relaxation",
+                "educational"
+            ],
+            "age_range": "0_18",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Read books to them with high-contrast images and textures",
+            "impact": "Stimulates Brain Development",
+            "image": "ReadingandListening.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Arts and Crafts",
+            "categories": [
+                "creative",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Finger painting with non-toxic paints.\nCreating collages with child-safe scissors and magazines",
+            "impact": "Development of brain and multisensory skills",
+            "image": "ArtsandCrafts.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Playing with Clay or Playdough",
+            "categories": [
+                "creative",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "limited",
+            "special_occasion": false,
+            "explanation": "Building towers and structures with soft playdoh or clay",
+            "impact": "Enhances hand-eye coordination and creativity",
+            "image": "Playdough.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Storytelling",
+            "categories": [
+                "educational",
+                "relaxation"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Encourage your child to tell/explain a story using their toys or drawings",
+            "impact": "Facilitates hand movements, increases vocabulary skills, and stimulates imagination",
+            "image": "Storytelling.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Tummy Time",
+            "categories": [
+                "active",
+                "entertainment"
+            ],
+            "age_range": "0_18",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Putting colorful toys on their wrists or close to their eyes so that they try to move their body",
+            "impact": "Develops visual memory and keeps them engaged",
+            "image": "TummyTime.jpeg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Baby Yoga",
+            "categories": [
+                "active",
+                "relaxation"
+            ],
+            "age_range": "0_18",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "A series of gentle movements and stretches for parents to perform with their babies",
+            "impact": "Encourages motor skills, coordination and flexibility",
+            "image": "BabyYoga.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Hiding and Finding Objects",
+            "categories": [
+                "active",
+                "adventure"
+            ],
+            "age_range": "0_18",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Cover coloful toys through blanket and play side and seek",
+            "impact": "Develops object permanence",
+            "image": "HidingandFinding.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Snow Play",
+            "categories": [
+                "active",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "dynamic",
+            "activity_type": "outdoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "During the snow season, enjoy building snowmen or snow angels",
+            "impact": "Sharpens mind and prevents cognitive decline",
+            "image": "SnowPlay.jpg",
+            "timeline_start": "2023-11-01",
+            "timeline_end": "2024-01-31"
+        },
+        {
+            "name": "Sorting and Matching",
+            "categories": [
+                "educational",
+                "creative"
+            ],
+            "age_range": "18_36",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Provide objects to sort and match by color, shape, size using cards, socks, or other safe objects available at home.",
+            "impact": "Helps toddlers to learn about early representation and problem solving",
+            "image": "SortingandMatching.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Doing House Chores Together",
+            "categories": [
+                "diy",
+                "active"
+            ],
+            "age_range": "18_36",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Involve your child in simple house chores tasks, like mixing or pouring ingredients",
+            "impact": "Builds higher self-esteem and makes them more responsible.",
+            "image": "HouseholdChore.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Nature Walks and discovery ",
+            "categories": [
+                "adventure",
+                "active"
+            ],
+            "age_range": "0_18",
+            "level": "very_dynamic",
+            "activity_type": "outdoor",
+            "duration": "60+",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Take short walks in a stroller or baby carrier to introduce your baby to outdoor sights\nAllow them to gently touch leaves, grass, and flowers while being in the nature",
+            "impact": "Encourages curiosity and fosters texture exploration",
+            "image": "NatureWalks.jpg",
+            "timeline_start": "2023-03-01",
+            "timeline_end": "2023-10-31"
+        },
+        {
+            "name": "Nature Scavenger Hunt",
+            "categories": [
+                "adventure",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "very_dynamic",
+            "activity_type": "outdoor",
+            "duration": "60+",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Explore the backyard, local park, or a beach to find a list of items like leaves, rocks, seashells, rocks, or flowers",
+            "impact": "Boosts observation skills and helps toddlers develop early learning skills in a fun and natural way",
+            "image": "NatureHunt.jpg",
+            "timeline_start": "2023-03-01",
+            "timeline_end": "2023-10-31"
+        },
+        {
+            "name": "Nature Art and Craft",
+            "categories": [
+                "adventure",
+                "creative",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "very_dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "60+",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Use items that can be collected from outdoor to create crafts",
+            "impact": "Development of brain and multisensory skills",
+            "image": "NatureArt.jpg",
+            "timeline_start": "2023-03-01",
+            "timeline_end": "2023-10-31"
+        },
+        {
+            "name": "Riding a Tricycle",
+            "categories": [
+                "active",
+                "adventure"
+            ],
+            "age_range": "18_36",
+            "level": "very_dynamic",
+            "activity_type": "outdoor",
+            "duration": "60+",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Perform supervised bike ride adventures in safe areas",
+            "impact": "Develops physical strength and hand-eye coordination",
+            "image": "Tricycle.png",
+            "timeline_start": "2023-03-01",
+            "timeline_end": "2023-10-31"
+        },
+        {
+            "name": "Board books",
+            "categories": [
+                "educational"
+            ],
+            "age_range": "0_18",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Introduce board books as the small hands of your baby can manipulate the pages without ripping. ",
+            "impact": "Improves your child's eyesight and nurtures optic development ",
+            "image": "Boardbooks.png",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Educational Building Blocks and Puzzles",
+            "categories": [
+                "educational",
+                "creative"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Use high-contrast educational books with your baby.",
+            "impact": "Hones fine motor skills and prevents cognitive decline",
+            "image": "Educationalpuzzle.png",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Age-appropriate media with coviewing",
+            "categories": [
+                "digital",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "0_30",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Introduce your child with only age-appropriate programs\nMake sure to strictly follow the recommended duration.",
+            "impact": "Makes it easier for your child to understand and make sense of what they're watching.\nHelps with vocabulary expansion",
+            "image": "MediaToddler.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Baby Playdates",
+            "categories": [
+                "social",
+                "active",
+                "entertainment"
+            ],
+            "age_range": "0_18",
+            "level": "dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Organize playdates with children of similar age ",
+            "impact": "Promotes language Development and social interaction",
+            "image": "InfantPlaydate.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Baby Playdates",
+            "categories": [
+                "social",
+                "active",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "31_60",
+            "parent_supervision": "constant",
+            "special_occasion": false,
+            "explanation": "Organize playdates with children of similar age ",
+            "impact": "Promotes language Development and social interaction",
+            "image": "ToddlerPlaydates.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Interactive Toys",
+            "categories": [
+                "educational",
+                "entertainment"
+            ],
+            "age_range": "0_18",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "limited",
+            "special_occasion": false,
+            "explanation": "Light up your playtime with our child using interactive toys with light and sound features. ",
+            "impact": "Effective at commanding children's attention by activating their orienting reflex.",
+            "image": "Interactivetoy.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Puppet Shows",
+            "categories": [
+                "creative",
+                "entertainment"
+            ],
+            "age_range": "18_36",
+            "level": "less_dynamic",
+            "activity_type": "indoor",
+            "duration": "31_60",
+            "parent_supervision": "moderate",
+            "special_occasion": false,
+            "explanation": "Create handmade puppets with your child and play with them through hand gestures.",
+            "impact": "Helps with eye-hand coordination\nImproves balance and directionality ",
+            "image": "Puppet.jpg",
+            "timeline_start": "2023-01-01",
+            "timeline_end": "2023-12-31"
+        },
+        {
+            "name": "Easter Adventures",
+            "categories": [
+                "occasional",
+                "adventure",
+                "entertainment",
+                "creative"
+            ],
+            "age_range": "all",
+            "level": "very_dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "0_30",
+            "parent_supervision": "constant",
+            "special_occasion": true,
+            "explanation": "Engage toddlers in easter egg hunt, counting and decorating eggs, easter story time or puzzle games",
+            "impact": "Enhances problem-solving and observation skills.\nAdvances creativity, fine motor skills, and attention to details",
+            "image": "EasterToddler.png",
+            "timeline_start": "2023-03-31",
+            "timeline_end": "2023-03-31"
+        },
+        {
+            "name": "Celebrate Mother's Day",
+            "categories": [
+                "occasional",
+                "culinary",
+                "creative"
+            ],
+            "age_range": "all",
+            "level": "dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": true,
+            "explanation": "Create a card or give them the photo albums to explore",
+            "impact": "Promotes creativity and fine motor skills, helps with recognition capabilities, nurtures awareness ",
+            "image": "MothersDay.jpg",
+            "timeline_start": "2023-05-12",
+            "timeline_end": "2023-05-12"
+        },
+        {
+            "name": "Celebrate Father's Day",
+            "categories": [
+                "occasional",
+                "culinary",
+                "creative"
+            ],
+            "age_range": "all",
+            "level": "dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "0_30",
+            "parent_supervision": "moderate",
+            "special_occasion": true,
+            "explanation": "Create a card or give them the photo albums to explore",
+            "impact": "Promotes creativity and fine motor skills, helps with recognition capabilities, nurtures awareness ",
+            "image": "FathersDay.jpg",
+            "timeline_start": "2023-06-16",
+            "timeline_end": "2023-06-16"
+        },
+        {
+            "name": "Christmas is here!",
+            "categories": [
+                "occasional",
+                "entertainment",
+                "creative"
+            ],
+            "age_range": "all",
+            "level": "very_dynamic",
+            "activity_type": "indoor_outdoor",
+            "duration": "0_30",
+            "parent_supervision": "constant",
+            "special_occasion": true,
+            "explanation": "Give your child a mini tree to decorate, help them to create a card, get outside to see christmas liights",
+            "impact": "Promotes creativity and fine motor skills, advances attention to details",
+            "image": "Christmasinfant.jpg",
+            "timeline_start": "2023-12-25",
+            "timeline_end": "2023-12-25"
+        }
+    ]
+}
