@@ -88,3 +88,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# macOS generated files #
+.DS_Store
+.DS_Store?
+._*
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
