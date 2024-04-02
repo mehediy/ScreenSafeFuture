@@ -73,14 +73,13 @@ This section provides instructions on setting up the project on your local devel
 Clone the project repository to your local machine by running the following command in the terminal:
 
 ```bash
-git clone [https://github.com/yourusername/yourprojectname.git](https://github.com/mehediy/ScreenSafeFuture.git)
+git clone https://github.com/mehediy/ScreenSafeFuture.git
 cd ScreenSafeFuture
 ```
 
 ### Step 2: Setting Up the Project in Xcode
 1. **Open the Project**: After cloning the repository, open the .xcodeproj file in Xcode:
-2. **Install Dependencies**: Xcode should automatically fetch the dependencies with Swift Package Manager. If it doesn't, you can manually fetch and update the packages by navigating to:
-`Xcode > File > Swift Packages > Update to Latest Package Versions`
+2. **Install Dependencies**: Xcode should automatically fetch the dependencies with Swift Package Manager. If it doesn't, you can manually fetch and update the packages by navigating to: `Xcode > File > Swift Packages > Update to Latest Package Versions`
 
 ### Step 3:  Configuring Signing and Provisioning
 Each target in the project (main app and extensions) requires specific signing and provisioning settings:
